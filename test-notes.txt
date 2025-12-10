@@ -1,0 +1,8 @@
+test-notes.txt
+Version: 0.1
+Author: Dharmin Joshi / DevKay
+
+This is a test file for the Git-Like CLI Version Control System.
+Used to check commit, diff, and history features.
+
+Will update this file in later versions to test tracking.
