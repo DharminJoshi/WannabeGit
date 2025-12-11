@@ -27,7 +27,7 @@ A Git-inspired CLI-based version control system built in Python with enhanced fe
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/DharminJoshi/WannabeGit
 cd wannabegit
 
 # Make the main script executable (optional)
